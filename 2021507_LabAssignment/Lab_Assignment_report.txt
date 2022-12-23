@@ -1,0 +1,9 @@
+1. Are you using min-heap in your implementation?
+A. Yes, min-heap is required for building the huffman tree.
+
+2. What is the size of the compressed file after compressing the sample input file provided
+with the assignment? (Run “du -h out.txt” to obtain the size of the file out.txt).
+A. 3,286 bytes
+
+3. Describe the format of the metadata that is stored in the compressed file.
+A. Level-order traversal of the Huffman Tree formed.
